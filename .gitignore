@@ -1,0 +1,49 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+env/
+venv/
+myenv/
+*.env
+*.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Package and dependency files
+*.egg-info/
+build/
+dist/
+*.egg
+.eggs/
+
+# Pytest cache
+.pytest_cache/
+
+# Conda environment
+*.conda
+*.lock
+*.yml
+conda-meta/
+
+# Artifacts
+*.pkl
+*.h5
+*.ckpt
+
+# Git
+.git/
